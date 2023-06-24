@@ -1,4 +1,5 @@
 line 1 new text
-line 2 some more text
+line 2 some more
 line 3
-line 4 edited
+line 4 edited 
+line 5
